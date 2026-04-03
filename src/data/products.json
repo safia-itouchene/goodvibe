@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "name": "Coque Élégante Marbre Rose",
+    "price": 1800,
+    "originalPrice": 2500,
+    "category": "Phone Cases",
+    "description": "Coque de protection premium avec motif marbre rose délicat. Fabriquée en silicone de haute qualité, elle offre une protection optimale tout en sublimant votre smartphone.",
+    "rating": 4.8,
+    "reviews": 124,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SR-01_iPhone_17_Pro_Max_TH_1.jpg?v=1772121075&width=736",
+      "https://burga.com/cdn/shop/files/SR-01_iPhone_17_Pro_Max_TH_1.jpg?v=1772121075&width=736"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Coque Transparente Ultra-Fine",
+    "price": 1500,
+    "category": "Phone Cases",
+    "description": "Coque transparente ultra-fine qui met en valeur le design de votre téléphone. Matériau TPU souple anti-choc.",
+    "rating": 4.5,
+    "reviews": 89,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-01-A0000000000001BA.jpg?v=1758865906&width=2048"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Coque Cuir Véritable Noire",
+    "price": 3500,
+    "category": "Phone Cases",
+    "description": "Coque en cuir véritable noir avec finition mate luxueuse. Protection robuste avec style sophistiqué.",
+    "rating": 4.9,
+    "reviews": 67,
+    "isBestSeller": true,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-03-A0000000000001BA.jpg?v=1758865721&width=736"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Coque Miroir Dorée",
+    "price": 2200,
+    "originalPrice": 2800,
+    "category": "Phone Cases",
+    "description": "Coque miroir élégante dorée qui reflète la lumière magnifiquement. Parfaite pour les amoureux du glamour.",
+    "rating": 4.3,
+    "reviews": 45,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Coque Floral Aquarelle",
+    "price": 2000,
+    "category": "Phone Cases",
+    "description": "Coque à motif floral aquarelle pastel. Un design artistique et délicat pour personnaliser votre smartphone.",
+    "rating": 4.6,
+    "reviews": 78,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766393720&width=736"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Coque Minimaliste Beige",
+    "price": 1700,
+    "category": "Phone Cases",
+    "description": "Coque minimaliste dans notre teinte signature beige. Simple, élégante et intemporelle.",
+    "rating": 4.7,
+    "reviews": 102,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-06_iPhone_17_Pro_Max_TH_1.jpg?v=1766396639&width=2048"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Housse Laptop Premium 15\"",
+    "price": 4500,
+    "originalPrice": 5500,
+    "category": "Laptop Cases",
+    "description": "Housse de protection premium pour laptop 15 pouces. Intérieur en velours doux, extérieur résistant aux chocs.",
+    "rating": 4.8,
+    "reviews": 56,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/TL-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766127282&width=736"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Étui Laptop Slim 13\"",
+    "price": 3800,
+    "category": "Laptop Cases",
+    "description": "Étui slim ultra-léger pour MacBook ou laptop 13 pouces. Design épuré avec fermeture magnétique.",
+    "rating": 4.6,
+    "reviews": 43,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SR_01A_AirPods_1.jpg?v=1772101721&width=736"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sacoche Laptop Cuir 14\"",
+    "price": 6500,
+    "originalPrice": 8000,
+    "category": "Laptop Cases",
+    "description": "Sacoche en cuir naturel pour laptop 14 pouces. Style professionnel avec compartiments multiples.",
+    "rating": 4.9,
+    "reviews": 38,
+    "isBestSeller": true,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/SC-02A-AP1A_e9e9f49b-4060-4ee1-b68b-8254707f8050.jpg?v=1771598940&width=512"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Housse Néoprène 15.6\"",
+    "price": 2800,
+    "category": "Laptop Cases",
+    "description": "Housse néoprène imperméable pour laptop 15.6 pouces. Protection légère et résistante à l'eau.",
+    "rating": 4.4,
+    "reviews": 67,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-06_iPhone_17_Pro_Max_TH_1.jpg?v=1766396639&width=736",
+      "https://burga.com/cdn/shop/files/TL-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766127282&width=736"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Étui Laptop Tissu 13\"",
+    "price": 3200,
+    "category": "Laptop Cases",
+    "description": "Étui en tissu recyclé écologique pour laptop 13 pouces. Design moderne et responsable.",
+    "rating": 4.5,
+    "reviews": 29,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SC-02A-AP1A_e9e9f49b-4060-4ee1-b68b-8254707f8050.jpg?v=1771598940&width=736",
+      "https://burga.com/cdn/shop/files/SR_01A_AirPods_1.jpg?v=1772101721&width=736"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Étui AirPods Marbre",
+    "price": 1600,
+    "originalPrice": 2000,
+    "category": "Airpods Cases",
+    "description": "Étui de protection pour AirPods avec motif marbre élégant. Silicone souple anti-choc avec mousqueton.",
+    "rating": 4.7,
+    "reviews": 91,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SR_01A_AirPods_1.jpg?v=1772101721&width=736",
+      "https://burga.com/cdn/shop/files/SC-02A-AP1A_e9e9f49b-4060-4ee1-b68b-8254707f8050.jpg?v=1771598940&width=512"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Étui AirPods Fleur Brodée",
+    "price": 2100,
+    "category": "Airpods Cases",
+    "description": "Étui AirPods avec broderie florale artisanale. Unique et délicat, parfait comme cadeau.",
+    "rating": 4.8,
+    "reviews": 54,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766393720&width=736",
+      "https://burga.com/cdn/shop/files/DO-06_iPhone_17_Pro_Max_TH_1.jpg?v=1766396639&width=736"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Étui AirPods Transparent",
+    "price": 1500,
+    "category": "Airpods Cases",
+    "description": "Étui transparent ultra-clair pour AirPods. Montre le design original tout en protégeant.",
+    "rating": 4.3,
+    "reviews": 76,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-01-A0000000000001BA.jpg?v=1758865906&width=736",
+      "https://burga.com/cdn/shop/files/PA-03-A0000000000001BA.jpg?v=1758865721&width=736"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Étui AirPods Cuir Rose",
+    "price": 2800,
+    "originalPrice": 3500,
+    "category": "Airpods Cases",
+    "description": "Étui AirPods en cuir végan rose poudré. Fermeture à pression dorée pour un look luxueux.",
+    "rating": 4.9,
+    "reviews": 42,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SR-01_iPhone_17_Pro_Max_TH_1.jpg?v=1772121075&width=736",
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Étui AirPods Minimaliste Noir",
+    "price": 1900,
+    "category": "Airpods Cases",
+    "description": "Étui AirPods minimaliste en silicone noir mat. Sobre et élégant pour un style intemporel.",
+    "rating": 4.6,
+    "reviews": 63,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-03-A0000000000001BA.jpg?v=1758865721&width=736",
+      "https://burga.com/cdn/shop/files/SR_01A_AirPods_1.jpg?v=1772101721&width=736"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Montre Classique Dorée",
+    "price": 7500,
+    "originalPrice": 9000,
+    "category": "Accessories",
+    "description": "Montre classique avec boîtier doré et bracelet en cuir brun. Mouvement à quartz précis.",
+    "rating": 4.8,
+    "reviews": 34,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736",
+      "https://burga.com/cdn/shop/files/DO-06_iPhone_17_Pro_Max_TH_1.jpg?v=1766396639&width=736"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lunettes de Soleil Vintage",
+    "price": 3200,
+    "category": "Accessories",
+    "description": "Lunettes de soleil style vintage avec verres UV400. Monture acétate légère et résistante.",
+    "rating": 4.5,
+    "reviews": 87,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766393720&width=736",
+      "https://burga.com/cdn/shop/files/SR-01_iPhone_17_Pro_Max_TH_1.jpg?v=1772121075&width=736"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Parfum GoodVibe Signature",
+    "price": 4800,
+    "originalPrice": 6000,
+    "category": "Accessories",
+    "description": "Notre parfum signature aux notes florales et musquées. Une fragrance unique qui exprime votre personnalité.",
+    "rating": 4.9,
+    "reviews": 56,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SC-02A-AP1A_e9e9f49b-4060-4ee1-b68b-8254707f8050.jpg?v=1771598940&width=512",
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Bracelet Chaîne Dorée",
+    "price": 2500,
+    "category": "Accessories",
+    "description": "Bracelet chaîne en or 18 carats plaqué. Élégant et polyvalent pour toutes occasions.",
+    "rating": 4.7,
+    "reviews": 112,
+    "isBestSeller": true,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-06_iPhone_17_Pro_Max_TH_1.jpg?v=1766396639&width=736",
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Sac à Main Cuir Beige",
+    "price": 5500,
+    "originalPrice": 7000,
+    "category": "Accessories",
+    "description": "Sac à main en cuir végan beige avec fermeture dorée. Spacieux et élégant pour le quotidien.",
+    "rating": 4.8,
+    "reviews": 73,
+    "isBestSeller": false,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/SC-02A-AP1A_e9e9f49b-4060-4ee1-b68b-8254707f8050.jpg?v=1771598940&width=736",
+      "https://burga.com/cdn/shop/files/TL-04_iPhone_17_Pro_Max_TH_1.jpg?v=1766127282&width=736"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Sneakers Blanches Tendance",
+    "price": 6800,
+    "category": "Accessories",
+    "description": "Sneakers blanches tendance avec semelle confort. Le must-have de la saison pour un look casual-chic.",
+    "rating": 4.6,
+    "reviews": 145,
+    "isBestSeller": true,
+    "isFeatured": true,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-01-A0000000000001BA.jpg?v=1758865906&width=736",
+      "https://burga.com/cdn/shop/files/SR-01_iPhone_17_Pro_Max_TH_1.jpg?v=1772121075&width=736"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Coque Géométrique Dorée",
+    "price": 2100,
+    "originalPrice": 2600,
+    "category": "Phone Cases",
+    "description": "Coque avec motif géométrique doré sur fond blanc. Design moderne et élégant.",
+    "rating": 4.4,
+    "reviews": 58,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/DO-11_iPhone_17_Pro_Max_TH_1.jpg?v=1766394013&width=736",
+      "https://burga.com/cdn/shop/files/PA-01-A0000000000001BA.jpg?v=1758865906&width=736"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Montre Minimaliste Argent",
+    "price": 5200,
+    "category": "Accessories",
+    "description": "Montre minimaliste avec cadran blanc et boîtier argenté. Design épuré pour un style contemporain.",
+    "rating": 4.7,
+    "reviews": 44,
+    "isBestSeller": false,
+    "isFeatured": false,
+    "images": [
+      "https://burga.com/cdn/shop/files/PA-03-A0000000000001BA.jpg?v=1758865721&width=736"
+    ]
+  }
+]
