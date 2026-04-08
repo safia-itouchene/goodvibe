@@ -10,15 +10,6 @@ GoodVibe!
 ## Live Demo
 **[Check out the live demo here!](https://safia-itouchene.github.io/goodvibe/)**
 
-
-## 🛠 Tech Stack
-
-| Technology | Usage | Level |
-|-----------|-------|-------|
-| **JavaScript** | Core Functionality | 91.5K lines |
-| **HTML5** | Structure | 569 lines |
-| **CSS3** | Styling | 451 lines |
-
 ---
 
 ## 🚀 Getting Started
