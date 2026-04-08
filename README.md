@@ -5,8 +5,6 @@ GoodVibe!
 ![HTML5](https://img.shields.io/badge/HTML-5-orange)
 ![CSS3](https://img.shields.io/badge/CSS-3-blue)
 
-> ✨ Spread good vibes everywhere! A modern, interactive web experience designed to brighten your day.
-
 ## Live Demo
 **[Check out the live demo here!](https://safia-itouchene.github.io/goodvibe/)**
 
