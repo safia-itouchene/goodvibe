@@ -1,4 +1,4 @@
-# 🎉 Welcome to GoodVibe! 🎉
+GoodVibe!
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -8,8 +8,8 @@
 
 > ✨ Spread good vibes everywhere! A modern, interactive web experience designed to brighten your day.
 
-## 🌈 Live Demo
-👉 **[Check out the live demo here!](https://safia-itouchene.github.io/goodvibe/)**
+## Live Demo
+**[Check out the live demo here!](https://safia-itouchene.github.io/goodvibe/)**
 
 ---
 
