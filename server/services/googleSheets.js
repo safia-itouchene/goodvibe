@@ -165,16 +165,14 @@ export async function appendOrderToSheet(order) {
         requestBody: { values: [row] },
       })
 
-      console.log('[GoogleSheets] Order appended successfully:', { orderId: safeOrderId, attempt })
+      console.log(`[GoogleSheets] Order ${safeOrderId} appended successfully (attempt ${attempt})`)
       return
     } catch (err) {
       lastError = err
-      console.error('[GoogleSheets] Append attempt failed:', {
-        orderId: safeOrderId,
-        attempt,
-        maxRetries: MAX_RETRIES,
-        error: err.message,
-      })
+      console.error(
+        `[GoogleSheets] Attempt ${attempt}/${MAX_RETRIES} failed for order ${safeOrderId}:`,
+        err.message
+      )
 
       if (attempt < MAX_RETRIES) {
         await new Promise(r => setTimeout(r, RETRY_DELAY_MS * attempt))

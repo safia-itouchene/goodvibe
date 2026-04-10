@@ -73,9 +73,7 @@ app.post('/api/orders', async (req, res) => {
 
   try {
     await appendOrderToSheet(order)
-    // Sanitize user-provided order ID before using it in log messages
-    const safeOrderId = String(order.id).replace(/[^a-zA-Z0-9-]/g, '').slice(0, 32)
-    console.log('[Server] Order processed successfully:', safeOrderId)
+    console.log(`[Server] Order ${order.id} processed successfully`)
     return res.status(201).json({ success: true, orderId: order.id })
   } catch (err) {
     console.error('[Server] Failed to process order:', err.message)
