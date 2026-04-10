@@ -95,7 +95,7 @@ function getAuthenticatedClient() {
  */
 function formatOrderRow(order) {
   const itemsSummary = (order.items || [])
-    .map(item => `${item.name} x${item.quantity} (${(item.price * item.quantity).toFixed(0)} DA)`)
+    .map(item => `${item.name} x${item.quantity} (${(item.price * item.quantity).toLocaleString()} DA)`)
     .join(' | ')
 
   const formattedDate = new Date(order.date).toLocaleString('fr-DZ', {
