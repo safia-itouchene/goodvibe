@@ -26,4 +26,16 @@ export default defineConfig([
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
     },
   },
+  // Server-side Node.js files – override browser globals with Node.js globals
+  {
+    files: ['server/**/*.js'],
+    languageOptions: {
+      ecmaVersion: 2022,
+      globals: globals.node,
+      parserOptions: {
+        ecmaVersion: 'latest',
+        sourceType: 'module',
+      },
+    },
+  },
 ])

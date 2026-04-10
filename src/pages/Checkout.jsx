@@ -5,6 +5,7 @@ import { validateCheckoutForm } from '../utils/validation'
 import { WILAYAS } from '../utils/constants'
 import Input from '../components/common/Input'
 import Button from '../components/common/Button'
+import { submitOrderToSheet } from '../services/orderService'
 
 export default function Checkout() {
   const navigate = useNavigate()
@@ -46,6 +47,8 @@ export default function Checkout() {
       date: new Date().toISOString(),
       id: `GV-${Date.now()}`,
     }
+    // Submit order to Google Sheets (non-blocking – errors are logged, not surfaced to the user)
+    await submitOrderToSheet(order)
     clearCart()
     navigate('/confirmation', { state: { order } })
   }
